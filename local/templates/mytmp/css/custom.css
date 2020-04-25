@@ -1,0 +1,34 @@
+.fa:before {
+    padding-top: 8px;
+}
+
+
+.form:before {
+    width: 60px;
+}
+
+.form:after {
+    width: 73px;
+}
+
+.err_text_checkbox {
+    color: red;
+}
+
+
+.breadcrumbs-body {
+    padding-top: 70px;
+}
+
+
+
+
+#price_without_delivery {
+    display: none;
+    /*color: #0ae4ff;*/
+}
+
+
+#hiden-data-price {
+    display: none;
+}
